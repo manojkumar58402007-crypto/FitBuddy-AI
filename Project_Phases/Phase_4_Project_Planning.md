@@ -1,10 +1,11 @@
 # Phase 4: Project Planning
 
 ## Team Structure & Roles
-- **Hisham Aatif Afsar (Lead):** Core architecture, FastAPI backend, Gemini API integration, and Render cloud deployment.
-- **Maithreyan S:** Requirement validation, workflow analysis, and project planning.
-- **Gowdham Ramkrishnan:** Frontend UI layout, styling review, and component testing.
-- **Hariprasad V:** Project documentation, Kanban task organization, and submission auditing.
+- **Manoj Kumar K A (Lead):** Core architecture, FastAPI backend, Gemini API integration, and Render cloud deployment.
+- **Harish M:** Requirement validation, workflow analysis, and project planning.
+- **Akash K:** Frontend UI layout, styling review, and component testing.
+- **kishore J:** Project documentation, Kanban task organization, and submission auditing.
+- **Mohamed Athif K:** Project documentation, Kanban task organization, and submission auditing.
 
 ## Milestones & Timeline
 - Milestone 1: Environment setup and API key validation.
