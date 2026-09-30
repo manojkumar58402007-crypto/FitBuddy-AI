@@ -3,7 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ponnurangamm21-wq/FitBudyy-AI/blob/main/Project_Phases/Phase_7_Project_Documentation.md]
+   git clone [https://github.com/manojkumar58402007-crypto/FitBuddy-AI.git/blob/main/Project_Phases/Phase_7_Project_Documentation.md]
    
 
 
