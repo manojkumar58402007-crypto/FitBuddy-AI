@@ -12,7 +12,7 @@
 3. Gemini extracts itemized details and spending insights.
 4. Jinja2 renders and returns the structured results view to the user.
 
-- *Date:* 29 September 2026
+- *Date:* 30 September 2026
 - *Team ID:* 06
 - *Project Name:* FitBuddy – AI Fitness Plan Generator using Gemini Models
 - *Maximum Marks:* 3 Marks
