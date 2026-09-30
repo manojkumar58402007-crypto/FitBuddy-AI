@@ -23,9 +23,9 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Manoj Kumar K A| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 06 |
-| 2 | Harish M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 06 |
-| 3 | Akash k | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
-|4 |kishore J  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
-|5 |Mohamed Athif K | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+| 1 | Manoj Kumar K A| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 19 |
+| 2 | Harish M| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 19 |
+| 3 | Akash k | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 19 |
+|4 |kishore J  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 19 |
+|5 |Mohamed Athif K | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 19 |
 
